@@ -34,6 +34,9 @@ Gebaeck:
 Baeckerei:
 Hund:
 Doener:
-Apfelkuchen: Is an apple or fruit cake.
-Schloss: Is a castle or large manor style house.
-Eltz: Is a German royal family or royal bloodine.
+Apfelkuchen:
+    Is an apple or fruit cake.
+Schloss:
+    Is a castle or large manor style house.
+Eltz:
+    Is a German royal family or royal bloodine.
