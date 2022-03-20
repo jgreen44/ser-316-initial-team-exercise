@@ -12,11 +12,11 @@ Hauptstrasse:
     Highway
 Brot:
     Bread
-Klimaanlage:
-Rammstein:
-Porsche: jkdhj
-BMW:
-Biergarten:
+Klimaanlage:air conditioning
+Rammstein: is a song
+Porsche: car 
+BMW: car
+Biergarten: beer garden
 Ratskeller:
 Dirndel:
 Lederhose:
