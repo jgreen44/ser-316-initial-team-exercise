@@ -1,13 +1,19 @@
 
 
+<<<<<<< HEAD
+=======
 this is the 2nd change 
 
+>>>>>>> b22353360c2d460f6af05ad6b5cd24082ff6417c
 kkTestB
 
 
 
+<<<<<<< HEAD
+=======
 
 aamartus:   I drove my blacked out BMW to the local Biergarten. It's right in between Berlin and the flughafen.
             They've got the best brotworst & brot. Raesfeld also has a good biergarten, but it's over 1 hour away!
             The drive isn't too bad though, and it's a straight shot on a hauptstrasse. If you  do want to get there
             quicker, consider taking a porsche there. Just remember to pack your laderhosen!
+>>>>>>> b22353360c2d460f6af05ad6b5cd24082ff6417c
