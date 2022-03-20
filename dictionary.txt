@@ -54,7 +54,10 @@ Mehlhase:
 Gebaeck:
 Baeckerei:
 Hund:
+    hound/dog
 Doener:
+    A shredded meat mixture with sauce and chopped veggies, wrapped in warm pita. Very popular street food
+    in German-speaking countries.
 Apfelkuchen:
 Schloss:
 Eltz:
