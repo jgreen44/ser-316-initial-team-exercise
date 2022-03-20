@@ -12,14 +12,10 @@ Hauptstrasse:
     Highway
 Brot:
     Bread
-
 Rammstein: is a song
 Porsche: A fancy sports car
 BMW: car
-
-
 Klimaanlage:Air Conditioning.
-
 Biergarten:
     A beer garden is an outdoor area where beer and food are served.
 Ratskeller:
@@ -30,17 +26,22 @@ Dirndel:
 Lederhose:
     Lederhosen are short or knee-length leather breeches that are worn as traditional
     garments in some regions of German-speaking countries
-
 wettbewerbsfaehig:
+    Competitive
 Mehlhase:
+    Our instructor
 Gebaeck:
+    Pastry
 Baeckerei:
+    Backery
 Hund:
     hound/dog
 Doener:
     A shredded meat mixture with sauce and chopped veggies, wrapped in warm pita. Very popular street food
     in German-speaking countries.
-Apfelkuchen:
+Apfelkuchen: Apple pie
 Schloss:
     A German castle or manor house
 Eltz:
+    habitational name (originally a river name) from Elz near Limburg (Hesse)
+    or from Eltz on the Mosel river or the Neckar river.
