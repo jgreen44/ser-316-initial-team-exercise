@@ -12,17 +12,14 @@ Hauptstrasse:
     Highway
 Brot:
     Bread
-Klimaanlage:air conditioning
+
 Rammstein: is a song
 Porsche: A fancy sports car
 BMW: car
-Biergarten: beer garden
-Ratskeller:
+
 
 Klimaanlage:Air Conditioning.
-Rammstein:
-Porsche: jkdhj
-BMW:
+
 Biergarten:
     A beer garden is an outdoor area where beer and food are served.
 Ratskeller:
@@ -33,8 +30,7 @@ Dirndel:
 Lederhose:
     Lederhosen are short or knee-length leather breeches that are worn as traditional
     garments in some regions of German-speaking countries
-Schloss:
-    A German castle or manor house
+
 wettbewerbsfaehig:
 Mehlhase:
 Gebaeck:
@@ -46,4 +42,5 @@ Doener:
     in German-speaking countries.
 Apfelkuchen:
 Schloss:
+    A German castle or manor house
 Eltz:
