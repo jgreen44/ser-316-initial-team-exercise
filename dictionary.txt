@@ -12,20 +12,24 @@ Hauptstrasse:
     Highway
 Brot:
     Bread
-Klimaanlage: alsdjkldsfakldfjs
+Klimaanlage:
 Rammstein:
-    Industrial metal band from Leipzig
-Porsche: jkdhj
+Porsche:
 BMW:
 Biergarten:
 Ratskeller:
 Dirndel:
 Lederhose:
 Schloss:
+    Lock
 wettbewerbsfaehig:
+    Competitive
 Mehlhase:
+    Our instructor
 Gebaeck:
+    Pastry
 Baeckerei:
+    Backery
 Hund:
 Doener:
 Apfelkuchen:
