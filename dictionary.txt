@@ -25,7 +25,7 @@ Rammstein:
 Porsche: jkdhj
 BMW:
 Biergarten:
-    A beer garden is an outdoor area in which beer and food are served, typically at shared tables.
+    A beer garden is an outdoor area where beer and food are served.
 Ratskeller:N
     ame in German-speaking countries for a bar or restaurant located in the basement of a city hall
 
