@@ -12,35 +12,21 @@ Hauptstrasse:
     Highway
 Brot:
     Bread
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
->>>>>>> b22353360c2d460f6af05ad6b5cd24082ff6417c
 Klimaanlage:air conditioning
 Rammstein: is a song
 Porsche: car 
 BMW: car
 Biergarten: beer garden
 Ratskeller:
-<<<<<<< HEAD
-=======
-=======
 
->>>>>>> b22353360c2d460f6af05ad6b5cd24082ff6417c
 Klimaanlage:Air Conditioning.
 Rammstein:
 Porsche: jkdhj
 BMW:
 Biergarten:
     A beer garden is an outdoor area where beer and food are served.
-Ratskeller:N
-    ame in German-speaking countries for a bar or restaurant located in the basement of a city hall
-<<<<<<< HEAD
->>>>>>> main
-=======
-
->>>>>>> b22353360c2d460f6af05ad6b5cd24082ff6417c
+Ratskeller:
+    Name in German-speaking countries for a bar or restaurant located in the basement of a city hall
 Dirndel:
     The dirndl is regarded as a folk costume (in German Tracht).
     It developed as the clothing of Alpine peasants between the 16th and 18th centuries
