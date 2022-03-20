@@ -12,14 +12,23 @@ Hauptstrasse:
     Highway
 Brot:
     Bread
+
+Klimaanlage:air conditioning
+Rammstein: is a song
+Porsche: car 
+BMW: car
+Biergarten: beer garden
+Ratskeller:
+
 Klimaanlage:Air Conditioning.
 Rammstein:
 Porsche: jkdhj
 BMW:
 Biergarten:
-    A beer garden is an outdoor area in which beer and food are served, typically at shared tables.
+    A beer garden is an outdoor area where beer and food are served.
 Ratskeller:N
     ame in German-speaking countries for a bar or restaurant located in the basement of a city hall
+
 Dirndel:
     The dirndl is regarded as a folk costume (in German Tracht).
     It developed as the clothing of Alpine peasants between the 16th and 18th centuries
