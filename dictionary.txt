@@ -12,40 +12,36 @@ Hauptstrasse:
     Highway
 Brot:
     Bread
-
-Klimaanlage:air conditioning
 Rammstein: is a song
-Porsche: car 
+Porsche: A fancy sports car
 BMW: car
-Biergarten: beer garden
-Ratskeller:
-
 Klimaanlage:Air Conditioning.
-Rammstein:
-Porsche: jkdhj
-BMW:
 Biergarten:
     A beer garden is an outdoor area where beer and food are served.
-Ratskeller:N
-    ame in German-speaking countries for a bar or restaurant located in the basement of a city hall
-
+Ratskeller:
+    Name in German-speaking countries for a bar or restaurant located in the basement of a city hall
 Dirndel:
     The dirndl is regarded as a folk costume (in German Tracht).
     It developed as the clothing of Alpine peasants between the 16th and 18th centuries
 Lederhose:
     Lederhosen are short or knee-length leather breeches that are worn as traditional
     garments in some regions of German-speaking countries
+wettbewerbsfaehig:
+    Competitive
+Mehlhase:
+    Our instructor
+Gebaeck:
+    Pastry
+Baeckerei:
+    Backery
+Hund:
+    hound/dog
+Doener:
+    A shredded meat mixture with sauce and chopped veggies, wrapped in warm pita. Very popular street food
+    in German-speaking countries.
+Apfelkuchen: Apple pie
 Schloss:
     A German castle or manor house
-wettbewerbsfaehig:
-Mehlhase:
-Gebaeck:
-Baeckerei:
-Hund:
-Doener:
-Apfelkuchen:
-    Is an apple or fruit cake.
-Schloss:
-    Is a castle or large manor style house.
 Eltz:
-    Is a German royal family or royal bloodine.
+    habitational name (originally a river name) from Elz near Limburg (Hesse)
+    or from Eltz on the Mosel river or the Neckar river.
