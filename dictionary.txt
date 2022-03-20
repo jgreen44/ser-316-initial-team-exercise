@@ -17,6 +17,7 @@ Rammstein:
 Porsche: jkdhj
 BMW:
 Biergarten:
+    A beer garden is an outdoor area where beer and food are served.
 Ratskeller:
 Dirndel:
 Lederhose:
